@@ -7,9 +7,7 @@ Spotify Coding challenge for [jsconfeu-2013](http://2013.jsconf.eu/)
 
 * You need to solve at least one challenge in order to win a Spotify prize. Each problem has different difficulty, so feel free to start with the problem you prefer or that is more relevant for you.
 
-* Only 1 T-Shirt per contestant, sorry(8 points != 2 x T-Shirts).
-
-* **Disclaimer:** You need to be at the conference to pick up the T-Shirt. Also, we might run out of T-Shirts eventually, so we can’t guarantee we will have one for you, sorry.
+* **Disclaimer:** You need to be at the conference to pick up the prize.
 
 * You don’t need to complete the 4 points, or even have a perfect solutions, we will enjoy to discuss with you your solutions, so come to talk with us. Also, .. we are hiring ;), if you enjoyed to implement those challenges, check with us what are our open positions.
 
